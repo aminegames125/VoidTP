@@ -1,0 +1,9 @@
+name: VoidTP
+version: ${project.version}
+main: dev.imfound.voidtp.VoidTP
+authors: [ ImFound ]
+description: VoidTP Plugin by ImFound
+website: imfound.dev
+commands:
+  voidtp:
+    description: VoidTP Command
